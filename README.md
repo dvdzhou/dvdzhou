@@ -1,6 +1,6 @@
 <!--**Heya 👋, I'm David**-->
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Heya%20👋,%20I'm%20David&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Heya%20👋,%20I'm%20David&width=600&height=200)](https://github.com/Akshay090/svg-banners)
 
 𝐀𝐛𝐨𝐮𝐭 𝐦𝐞
 
