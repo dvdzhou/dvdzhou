@@ -35,6 +35,7 @@ I'm passionate about visual design, programming, videogames but also music!
 [![linux](https://img.shields.io/badge/Linux-fff?logoColor=a78bfa&style=flat-square&logo=linux)](https://www.linux.org/)
 [![markdown](https://img.shields.io/badge/Markdown-fff?logoColor=a78bfa&style=flat-square&logo=markdown)](https://www.markdownguide.org/)
 [![mysql](https://img.shields.io/badge/MySQL-fff?logoColor=a78bfa&style=flat-square&logo=mysql)](https://www.mysql.com/)
+[![notion](https://img.shields.io/badge/Notion-fff?logoColor=a78bfa&style=flat-square&logo=notion)](https://www.notion.so/)
 [![php](https://img.shields.io/badge/PHP-fff?logoColor=a78bfa&style=flat-square&logo=php)](https://www.php.net)
 [![phpmyadmin](https://img.shields.io/badge/phpMyAdmin-fff?logoColor=a78bfa&style=flat-square&logo=phpmyadmin)](https://www.phpmyadmin.net)
 [![python](https://img.shields.io/badge/Python-fff?logoColor=a78bfa&style=flat-square&logo=python)](https://www.python.org)
