@@ -2,7 +2,7 @@
 
 ### **ABOUT ME**
 
-I'm a multipotentialite and multidisciplinary designer & developer, who loves to learn new things and the feeling of solving challenging problems. 
+I'm a multipotentialite and multidisciplinary designer & developer, who loves to learn new things and the feeling after solving challenging problems. 
 I'm passionate about visual design, programming, videogames but also music!  
   
 ### **SKILLS & TOOLS**
