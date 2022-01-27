@@ -20,6 +20,7 @@ I'm passionate about visual design, programming, videogames but also music!
 [![c](https://img.shields.io/badge/C-fff?logoColor=a78bfa&style=flat-square&logo=c)](https://www.cprogramming.com/)
 [![cinema4d](https://img.shields.io/badge/Cinema_4D-fff?logoColor=a78bfa&style=flat-square&logo=cinema4d)](https://www.maxon.net/it/cinema-4d)
 [![css3](https://img.shields.io/badge/CSS-fff?logoColor=a78bfa&style=flat-square&logo=css3)](https://www.w3schools.com/css/)
+[![dart](https://img.shields.io/badge/Dart-fff?logoColor=a78bfa&style=flat-square&logo=dart)](https://dart.dev/)
 [![figma](https://img.shields.io/badge/Figma-fff?logoColor=a78bfa&style=flat-square&logo=figma)](https://www.figma.com/)
 [![flutter](https://img.shields.io/badge/Flutter-fff?logoColor=a78bfa&style=flat-square&logo=flutter)](https://flutter.dev)
 [![git](https://img.shields.io/badge/Git-fff?logoColor=a78bfa&style=flat-square&logo=git)](https://git-scm.com/)
