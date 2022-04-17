@@ -41,7 +41,6 @@ I'm passionate about visual design, programming, videogames but also music!
 [![phpmyadmin](https://img.shields.io/badge/phpMyAdmin-fff?logoColor=a78bfa&style=flat-square&logo=phpmyadmin)](https://www.phpmyadmin.net)
 [![python](https://img.shields.io/badge/Python-fff?logoColor=a78bfa&style=flat-square&logo=python)](https://www.python.org)
 [![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-fff?logoColor=a78bfa&style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
-[![typescript](https://img.shields.io/badge/TypeScript-fff?logoColor=a78bfa&style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
 [![uikit](https://img.shields.io/badge/UIkit-fff?logoColor=a78bfa&style=flat-square&logo=uikit)](https://getuikit.com/)
 [![unity](https://img.shields.io/badge/Unity-fff?logoColor=a78bfa&style=flat-square&logo=unity)](https://unity.com/)
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-fff?logoColor=a78bfa&style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
