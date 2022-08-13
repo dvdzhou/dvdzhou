@@ -2,12 +2,12 @@
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Heya%20👋,%20I'm%20David&width=600&height=200)](https://github.com/Akshay090/svg-banners)
 
-𝐀𝐛𝐨𝐮𝐭 𝐦𝐞
+𝐀𝐛𝐨𝐮𝐭
 
 I'm a multipotentialite and multidisciplinary designer and developer, who loves learning new things and problem solving.  
 I'm passionate about visual design, programming, videogames but also music!
   
-𝐒𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐭𝐨𝐨𝐥𝐬
+T𝐨𝐨𝐥𝐬
 
 [![adobe-illustrator](https://img.shields.io/badge/Adobe_Illustrator-fff?logoColor=a78bfa&style=flat-square&logo=adobe-illustrator)](https://www.adobe.com/in/products/illustrator.html)
 [![adobe-photoshop](https://img.shields.io/badge/Adobe_Photoshop-fff?logoColor=a78bfa&style=flat-square&logo=adobe-photoshop)](https://www.photoshop.com/en)
@@ -41,6 +41,7 @@ I'm passionate about visual design, programming, videogames but also music!
 [![notion](https://img.shields.io/badge/Notion-fff?logoColor=a78bfa&style=flat-square&logo=notion)](https://www.notion.so/)
 [![php](https://img.shields.io/badge/PHP-fff?logoColor=a78bfa&style=flat-square&logo=php)](https://www.php.net)
 [![phpmyadmin](https://img.shields.io/badge/phpMyAdmin-fff?logoColor=a78bfa&style=flat-square&logo=phpmyadmin)](https://www.phpmyadmin.net)
+[![pug](https://img.shields.io/badge/Pug-fff?logoColor=a78bfa&style=flat-square&logo=pug)](https://pugjs.org/)
 [![python](https://img.shields.io/badge/Python-fff?logoColor=a78bfa&style=flat-square&logo=python)](https://www.python.org)
 [![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-fff?logoColor=a78bfa&style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
 [![uikit](https://img.shields.io/badge/UIkit-fff?logoColor=a78bfa&style=flat-square&logo=uikit)](https://getuikit.com/)
