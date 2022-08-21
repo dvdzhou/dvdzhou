@@ -33,6 +33,7 @@ T𝐨𝐨𝐥𝐬
 [![javascript](https://img.shields.io/badge/JavaScript-fff?logoColor=a78bfa&style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![jquery](https://img.shields.io/badge/jQuery-fff?logoColor=a78bfa&style=flat-square&logo=jquery)](https://jquery.com/)
 [![json](https://img.shields.io/badge/JSON-fff?logoColor=a78bfa&style=flat-square&logo=json)](https://www.json.org/json-en.html)
+[![koa](https://img.shields.io/badge/Koa-fff?logoColor=a78bfa&style=flat-square&logo=koa)](https://koajs.com/)
 [![laravel](https://img.shields.io/badge/Laravel-fff?logoColor=a78bfa&style=flat-square&logo=laravel)](https://laravel.com/)
 [![linux](https://img.shields.io/badge/Linux-fff?logoColor=a78bfa&style=flat-square&logo=linux)](https://www.linux.org/)
 [![markdown](https://img.shields.io/badge/Markdown-fff?logoColor=a78bfa&style=flat-square&logo=markdown)](https://www.markdownguide.org/)
