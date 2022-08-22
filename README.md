@@ -48,6 +48,8 @@ T𝐨𝐨𝐥𝐬
 [![uikit](https://img.shields.io/badge/UIkit-fff?logoColor=a78bfa&style=flat-square&logo=uikit)](https://getuikit.com/)
 [![unity](https://img.shields.io/badge/Unity-fff?logoColor=a78bfa&style=flat-square&logo=unity)](https://unity.com/)
 [![vscode](https://img.shields.io/badge/Visual_Studio_Code-fff?logoColor=a78bfa&style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![vite](https://img.shields.io/badge/Vite-fff?logoColor=a78bfa&style=flat-square&logo=vite)](https://vitejs.dev/)
+[![vue](https://img.shields.io/badge/Vue-fff?logoColor=a78bfa&style=flat-square&logo=vue.js)](https://vuejs.org/)
 [![wix](https://img.shields.io/badge/Wix-fff?logoColor=a78bfa&style=flat-square&logo=wix)](https://www.wix.com/)
 [![wordpress](https://img.shields.io/badge/WordPress-fff?logoColor=a78bfa&style=flat-square&logo=wordpress)](https://wordpress.org/)
 
