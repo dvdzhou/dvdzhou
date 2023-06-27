@@ -57,7 +57,7 @@ T𝐨𝐨𝐥𝐬
 
 𝐋𝐢𝐧𝐤𝐬
 
-[![replit](https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@dddddavid02/)
+[![replit](https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@dvdzzz/)
 [![behance](https://img.shields.io/badge/behance-053eff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/zhoudavid)
 
 𝐒𝐭𝐚𝐭𝐬
