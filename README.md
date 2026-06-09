@@ -1,65 +1,25 @@
-<!--**Heya 👋, I'm David**-->
+<img width="1441" height="453" alt="banner3" src="https://github.com/user-attachments/assets/3d78f550-8063-422e-ab54-2e92d7c198d6" />
 
-[![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Heya%20👋,%20I'm%20David&width=600&height=200)](https://github.com/Akshay090/svg-banners)
+### About me
 
-𝐀𝐛𝐨𝐮𝐭
+###### What I'm into
 
-I'm a multipotentialite and multidisciplinary designer and developer, who loves problem solving and learning new things.  
-I'm passionate about visual design, programming, videogames but also music!
-  
-T𝐨𝐨𝐥𝐬
+<img src="https://img.shields.io/badge/💻%20Turning%20ideas%20into%20working%20digital%20products-F0F1F2?style=flat-square" alt="Turning ideas into working digital products"> <img src="https://img.shields.io/badge/🔀%20Design%20and%20code,%20equally%20(and%20a%20lot%20of%20other%20stuff%20too)-F0F1F2?style=flat-square" alt="Design and code, equally (and a lot of other stuff too)"> <img src="https://img.shields.io/badge/⚙️%20Automating%20any%20repetitive%20task-F0F1F2?style=flat-square" alt="Automating any repetitive task">
 
-[![adobe-illustrator](https://img.shields.io/badge/Adobe_Illustrator-fff?logoColor=a78bfa&style=flat-square&logo=adobe-illustrator)](https://www.adobe.com/in/products/illustrator.html)
-[![adobe-photoshop](https://img.shields.io/badge/Adobe_Photoshop-fff?logoColor=a78bfa&style=flat-square&logo=adobe-photoshop)](https://www.photoshop.com/en)
-[![android-studio](https://img.shields.io/badge/Android_Studio-fff?logoColor=a78bfa&style=flat-square&logo=android-studio)](https://developer.android.com)
-[![apache-maven](https://img.shields.io/badge/Apache_Maven-fff?logoColor=a78bfa&style=flat-square&logo=apache-maven)](https://maven.apache.org/)
-[![atom](https://img.shields.io/badge/Atom-fff?logoColor=a78bfa&style=flat-square&logo=atom)](https://atom.io/)
-[![bash](https://img.shields.io/badge/Bash-fff?logoColor=a78bfa&style=flat-square&logo=gnu-bash)](https://www.gnu.org/software/bash/)
-[![blender](https://img.shields.io/badge/Blender-fff?logoColor=a78bfa&style=flat-square&logo=blender)](https://www.blender.org/)
-[![bootstrap](https://img.shields.io/badge/Bootstrap-fff?logoColor=a78bfa&style=flat-square&logo=bootstrap)](https://getbootstrap.com)
-[![c](https://img.shields.io/badge/C-fff?logoColor=a78bfa&style=flat-square&logo=c)](https://www.cprogramming.com/)
-[![cinema4d](https://img.shields.io/badge/Cinema_4D-fff?logoColor=a78bfa&style=flat-square&logo=cinema4d)](https://www.maxon.net/it/cinema-4d)
-[![css3](https://img.shields.io/badge/CSS-fff?logoColor=a78bfa&style=flat-square&logo=css3)](https://www.w3schools.com/css/)
-[![dart](https://img.shields.io/badge/Dart-fff?logoColor=a78bfa&style=flat-square&logo=dart)](https://dart.dev/)
-[![express](https://img.shields.io/badge/Express-fff?logoColor=a78bfa&style=flat-square&logo=express)](https://expressjs.com/)
-[![figma](https://img.shields.io/badge/Figma-fff?logoColor=a78bfa&style=flat-square&logo=figma)](https://www.figma.com/)
-[![flutter](https://img.shields.io/badge/Flutter-fff?logoColor=a78bfa&style=flat-square&logo=flutter)](https://flutter.dev)
-[![git](https://img.shields.io/badge/Git-fff?logoColor=a78bfa&style=flat-square&logo=git)](https://git-scm.com/)
-[![github](https://img.shields.io/badge/GitHub-fff?logoColor=a78bfa&style=flat-square&logo=github)](https://github.com/)
-[![heroku](https://img.shields.io/badge/Heroku-fff?logoColor=a78bfa&style=flat-square&logo=heroku)](https://www.heroku.com)
-[![html5](https://img.shields.io/badge/HTML-fff?logoColor=a78bfa&style=flat-square&logo=html5)](https://www.w3.org/html/)
-[![ifttt](https://img.shields.io/badge/IFTTT-fff?logoColor=a78bfa&style=flat-square&logo=ifttt)](https://ifttt.com/)
-[![java](https://img.shields.io/badge/Java-fff?logoColor=a78bfa&style=flat-square&logo=java)](https://www.java.com)
-[![javascript](https://img.shields.io/badge/JavaScript-fff?logoColor=a78bfa&style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![jquery](https://img.shields.io/badge/jQuery-fff?logoColor=a78bfa&style=flat-square&logo=jquery)](https://jquery.com/)
-[![json](https://img.shields.io/badge/JSON-fff?logoColor=a78bfa&style=flat-square&logo=json)](https://www.json.org/json-en.html)
-[![koa](https://img.shields.io/badge/Koa-fff?logoColor=a78bfa&style=flat-square&logo=koa)](https://koajs.com/)
-[![laravel](https://img.shields.io/badge/Laravel-fff?logoColor=a78bfa&style=flat-square&logo=laravel)](https://laravel.com/)
-[![linux](https://img.shields.io/badge/Linux-fff?logoColor=a78bfa&style=flat-square&logo=linux)](https://www.linux.org/)
-[![markdown](https://img.shields.io/badge/Markdown-fff?logoColor=a78bfa&style=flat-square&logo=markdown)](https://www.markdownguide.org/)
-[![mysql](https://img.shields.io/badge/MySQL-fff?logoColor=a78bfa&style=flat-square&logo=mysql)](https://www.mysql.com/)
-[![nodejs](https://img.shields.io/badge/Node.js-fff?logoColor=a78bfa&style=flat-square&logo=node.js)](https://nodejs.org/)
-[![notion](https://img.shields.io/badge/Notion-fff?logoColor=a78bfa&style=flat-square&logo=notion)](https://www.notion.so/)
-[![php](https://img.shields.io/badge/PHP-fff?logoColor=a78bfa&style=flat-square&logo=php)](https://www.php.net)
-[![phpmyadmin](https://img.shields.io/badge/phpMyAdmin-fff?logoColor=a78bfa&style=flat-square&logo=phpmyadmin)](https://www.phpmyadmin.net)
-[![pug](https://img.shields.io/badge/Pug-fff?logoColor=a78bfa&style=flat-square&logo=pug)](https://pugjs.org/)
-[![python](https://img.shields.io/badge/Python-fff?logoColor=a78bfa&style=flat-square&logo=python)](https://www.python.org)
-[![tailwindcss](https://img.shields.io/badge/Tailwind_CSS-fff?logoColor=a78bfa&style=flat-square&logo=tailwindcss)](https://tailwindcss.com/)
-[![uikit](https://img.shields.io/badge/UIkit-fff?logoColor=a78bfa&style=flat-square&logo=uikit)](https://getuikit.com/)
-[![unity](https://img.shields.io/badge/Unity-fff?logoColor=a78bfa&style=flat-square&logo=unity)](https://unity.com/)
-[![vscode](https://img.shields.io/badge/Visual_Studio_Code-fff?logoColor=a78bfa&style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![vite](https://img.shields.io/badge/Vite-fff?logoColor=a78bfa&style=flat-square&logo=vite)](https://vitejs.dev/)
-[![vue](https://img.shields.io/badge/Vue-fff?logoColor=a78bfa&style=flat-square&logo=vue.js)](https://vuejs.org/)
-[![wix](https://img.shields.io/badge/Wix-fff?logoColor=a78bfa&style=flat-square&logo=wix)](https://www.wix.com/)
-[![wordpress](https://img.shields.io/badge/WordPress-fff?logoColor=a78bfa&style=flat-square&logo=wordpress)](https://wordpress.org/)
+###### Right now
 
-<!--𝐌𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬-->
+<img src="https://img.shields.io/badge/📐%20Studying%20Communication%20Design%20%40%20Polimi-F0F1F2?style=flat-square" alt="Studying Communication Design @ Polimi"> <img src="https://img.shields.io/badge/🤖%20Integrating%20AI%20into%20my%20workflows-F0F1F2?style=flat-square" alt="Integrating AI into my workflows"> <img src="https://img.shields.io/badge/🔍%20Obsessing%20over%20details%20that%20make%20products%20feel%20intentional-F0F1F2?style=flat-square" alt="Obsessing over details that make products feel intentional">
 
-𝐋𝐢𝐧𝐤𝐬
+### Toolbox
 
-[![replit](https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@dvdzzz/)
-[![behance](https://img.shields.io/badge/behance-053eff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/zhoudavid)
+###### Design & prototyping
+<img src="https://img.shields.io/badge/Figma-F0F1F2?style=flat-square&logo=figma&logoColor=auto" alt="Figma"> <img src="https://img.shields.io/badge/Illustrator-F0F1F2?style=flat-square&logo=adobeillustrator&logoColor=auto" alt="Adobe Illustrator"> <img src="https://img.shields.io/badge/Photoshop-F0F1F2?style=flat-square&logo=adobephotoshop&logoColor=auto" alt="Adobe Photoshop"> <img src="https://img.shields.io/badge/InDesign-F0F1F2?style=flat-square&logo=adobeindesign&logoColor=auto" alt="Adobe InDesign"> <img src="https://img.shields.io/badge/Blender-F0F1F2?style=flat-square&logo=blender&logoColor=auto" alt="Blender"> <img src="https://img.shields.io/badge/Cinema%204D-F0F1F2?style=flat-square&logo=cinema4d&logoColor=black" alt="Cinema 4D">
 
-𝐒𝐭𝐚𝐭𝐬
+###### Development & frameworks
+<img src="https://img.shields.io/badge/HTML5-F0F1F2?style=flat-square&logo=html5&logoColor=auto" alt="HTML5"> <img src="https://img.shields.io/badge/CSS-F0F1F2?style=flat-square&logo=css&logoColor=633194" alt="CSS"> <img src="https://img.shields.io/badge/JavaScript-F0F1F2?style=flat-square&logo=javascript&logoColor=auto" alt="JavaScript"> <img src="https://img.shields.io/badge/Svelte-F0F1F2?style=flat-square&logo=svelte&logoColor=auto" alt="Svelte"> <img src="https://img.shields.io/badge/Vue.js-F0F1F2?style=flat-square&logo=vuedotjs&logoColor=auto" alt="Vue.js"> <img src="https://img.shields.io/badge/Tailwind%20CSS-F0F1F2?style=flat-square&logo=tailwindcss&logoColor=auto" alt="Tailwind CSS"> <img src="https://img.shields.io/badge/Bootstrap-F0F1F2?style=flat-square&logo=bootstrap&logoColor=auto" alt="Bootstrap"> <img src="https://img.shields.io/badge/jQuery-F0F1F2?style=flat-square&logo=jquery&logoColor=1066A9" alt="jQuery">
 
-![dvdzhou](https://komarev.com/ghpvc/?username=dvdzhou&label=Profile%20views&color=8b5cf6&style=flat)
+###### Back-end & tools
+<img src="https://img.shields.io/badge/Node.js-F0F1F2?style=flat-square&logo=nodedotjs&logoColor=auto" alt="Node.js"> <img src="https://img.shields.io/badge/Express-F0F1F2?style=flat-square&logo=express&logoColor=black" alt="Express"> <img src="https://img.shields.io/badge/PHP-F0F1F2?style=flat-square&logo=php&logoColor=auto" alt="PHP"> <img src="https://img.shields.io/badge/Laravel-F0F1F2?style=flat-square&logo=laravel&logoColor=auto" alt="Laravel"> <img src="https://img.shields.io/badge/Python-F0F1F2?style=flat-square&logo=python&logoColor=auto" alt="Python"> <img src="https://img.shields.io/badge/Java-F0F1F2?style=flat-square&logo=openjdk&logoColor=black" alt="Java"> <img src="https://img.shields.io/badge/C-F0F1F2?style=flat-square&logo=c&logoColor=auto" alt="C"> <img src="https://img.shields.io/badge/Git-F0F1F2?style=flat-square&logo=git&logoColor=auto" alt="Git"> <img src="https://img.shields.io/badge/GitHub-F0F1F2?style=flat-square&logo=github&logoColor=black" alt="GitHub"> <img src="https://img.shields.io/badge/VS%20Code-F0F1F2?style=flat-square&logo=visualstudiocode&logoColor=auto" alt="VS Code"> <img src="https://img.shields.io/badge/Vite-F0F1F2?style=flat-square&logo=vite&logoColor=auto" alt="Vite"> <img src="https://img.shields.io/badge/Linux-F0F1F2?style=flat-square&logo=linux&logoColor=auto" alt="Linux"> <img src="https://img.shields.io/badge/Bash-F0F1F2?style=flat-square&logo=gnubash&logoColor=auto" alt="Bash">
+
+### Stats
+[![views](https://komarev.com/ghpvc/?username=dvdzhou&label=Times%20I%20Checked%20My%20Profile&color=8b5cf6&style=flat-square)](https://github.com/dvdzhou)
